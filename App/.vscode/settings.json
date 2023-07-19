@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Indus\\Semester_2\\OOP\\Project\\UCanAccess-5.0.1.bin\\ucanaccess-5.0.1.jar",
+        "d:\\Indus\\Semester_2\\OOP\\Project\\UCanAccess-5.0.1.bin\\lib\\commons-lang3-3.8.1.jar",
+        "d:\\Indus\\Semester_2\\OOP\\Project\\UCanAccess-5.0.1.bin\\lib\\commons-logging-1.2.jar",
+        "d:\\Indus\\Semester_2\\OOP\\Project\\UCanAccess-5.0.1.bin\\lib\\hsqldb-2.5.0.jar",
+        "d:\\Indus\\Semester_2\\OOP\\Project\\UCanAccess-5.0.1.bin\\lib\\jackcess-3.0.1.jar"
+    ]
+}
